@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Dixie-Uhr-und-Wetterstation-rescue")(type "Legacy")(uri "${KIPRJMOD}/Dixie-Uhr-und-Wetterstation-rescue.lib")(options "")(descr ""))
+)
